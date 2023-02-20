@@ -78,7 +78,7 @@ body {
 /* navigarin section end */
 /* hero section start */
 .hero-wrapper {
-    background-image: url(/Source/imges/banner-bg.png);
+    background-image: url(../Source/imges/banner-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -123,7 +123,7 @@ body {
 /* hero section end */
 /* banner section start */
 .banner-wrapper {
-    background-image: url(/Source/imges/banner-2/program_banner.png);
+    background-image: url(../Source/imges/banner-2/program_banner.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
